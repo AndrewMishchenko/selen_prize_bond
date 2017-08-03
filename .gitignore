@@ -1,0 +1,8 @@
+exportedDB/
+__pycache__/
+task/
+*.py[co]
+env/
+.idea/
+result (copy).json
+result.json
